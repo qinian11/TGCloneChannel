@@ -1,3 +1,6 @@
+### 作者电报 @hy499
+### 交流群组 小卡拉米交流群（禁止广告） @amlhcgj
+### 不会搭建 可以找作者 进行指导❕
 import os
 import re
 import logging
@@ -1305,3 +1308,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
