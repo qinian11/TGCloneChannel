@@ -1,0 +1,37 @@
+{
+  "replace_rules": "",
+  "delete_patterns": "",
+  "append_text": "",
+  "ad_keywords": "",
+  "api_id": 27556726,
+  "api_hash": "796c291a4a6e5003b231c8ba19d12643",
+  "phone": "",
+  "source_channel": "",
+  "target_channel": "",
+  "delay_seconds": 1,
+  "download_parallel": 4,
+  "debug_keep_downloads": false,
+  "text_rules": {
+    "sub": [
+      [
+        "原文词",
+        "新词"
+      ],
+      [
+        "测试",
+        "生产"
+      ]
+    ],
+    "del": [
+      "广告",
+      "违禁词"
+    ],
+    "append": "\n\n【作者小卡拉米 @hy499】"
+  },
+  "block_keywords": [
+    "广告",
+    "r/买\\d+送\\d+/",
+    "敏感词"
+  ],
+  "max_messages": 10
+}
