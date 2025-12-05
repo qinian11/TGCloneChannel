@@ -19,7 +19,7 @@
 ## 安装
 
 1.  克隆此存储库。
-2.  安装所需的 Python 包。建议创建一个 `requirements.txt` 文件并运行 `pip install -r requirements.txt`。所需的包是：
+2.  安装所需的 Python 包。并运行 `pip install -r requirements.txt`。所需的包是：
     - `telethon`
     - `python-telegram-bot`
     - `python-dotenv`
